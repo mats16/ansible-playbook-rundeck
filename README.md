@@ -12,7 +12,7 @@ $ ansible-galaxy install -r requirements.yml -p roles -f
 - [Nginx](https://github.com/mats116/ansible-role-nginx)
 - [Java8](https://github.com/mats116/ansible-role-java8)
 - [Rudeck](https://github.com/mats116/ansible-role-rundeck)
-- [MariaDB](https://github.com/mats116/ansible-role-mariadb-server) # when "mysql.host == 'localhost'"
+- [MariaDB](https://github.com/mats116/ansible-role-mariadb-server) # when "rd_mysql_host == 'localhost'"
 
 ## Launch WordPress Server on VirtualBox
 
