@@ -1,5 +1,5 @@
 # ansible-playbook-rundeck
-Nginx &amp; JAVA7 on Ubuntu 14.04 LTS
+for Ubuntu 14.04 LTS
 
 ## Install Ansible Roles
 
@@ -10,6 +10,7 @@ $ ansible-galaxy install -r requirements.yml -p roles -f
 ### Role List
 
 - [Nginx](https://github.com/mats116/ansible-role-nginx)
+- [Java8](https://github.com/mats116/ansible-role-java8)
 - [Rudeck](https://github.com/mats116/ansible-role-rundeck)
 - [MariaDB](https://github.com/mats116/ansible-role-mariadb-server) # when "mysql.host == 'localhost'"
 

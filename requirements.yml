@@ -4,5 +4,8 @@
 - src: https://github.com/mats116/ansible-role-mariadb-server.git
   name: mariadb-server
 
+- src: https://github.com/mats116/ansible-role-java8.git
+  name: java8
+
 - src: https://github.com/mats116/ansible-role-rundeck.git
   name: rundeck
