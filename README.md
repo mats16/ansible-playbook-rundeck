@@ -14,7 +14,7 @@ $ ansible-galaxy install -r requirements.yml -p roles -f
 - [Rudeck](https://github.com/mats116/ansible-role-rundeck)
 - [MariaDB](https://github.com/mats116/ansible-role-mariadb-server) # when "rd_mysql_host == 'localhost'"
 
-## Launch WordPress Server on VirtualBox
+## Launch Rundeck Server on VirtualBox
 
 ### 1. Launch Server
 
