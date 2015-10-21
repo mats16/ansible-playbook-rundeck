@@ -1,0 +1,4 @@
+- hosts: default
+  sudo: yes
+  roles:
+    - rundeck
